@@ -1,3 +1,8 @@
+-=(BankPanic_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # BankPanic for MiSTerFPGA
 
 ## General description
